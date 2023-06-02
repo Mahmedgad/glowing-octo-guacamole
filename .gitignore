@@ -1,4 +1,4 @@
-# Built application files
+pkg instzll # Built application files
 *.apk
 *.aar
 *.ap_
@@ -86,4 +86,9 @@ lint/tmp/
 The repository 'https://dl.bintray.com/grimler/science-packages-24 science Release' does not have a Release file.
 N: Metadata integrity can't be verified, repository is disabled now.
 N: Possible cause: repository is under maintenance or down (wrong sources.list URL?).
+pkg install kalil linx
+c:
+pkg 
+kil mohmed
+proportional serif font size of the year
 
